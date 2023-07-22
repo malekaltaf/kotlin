@@ -1,0 +1,1 @@
+"The variable obj is automatically cast to a String in this scope"
